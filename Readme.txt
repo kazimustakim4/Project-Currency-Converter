@@ -1,0 +1,1 @@
+This is a currency converter app coded with javaFX. It is a group project for Data Structure class. Members for this project are: Mahnoor Bibi, Kazi Mustakim, Ayub, Jiawei Ye, Abdul Azeez.
